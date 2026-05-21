@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://maxencecanler.com">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/maxcnlr">💼 LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/maxencecanler">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:canler.maxence@gmail.com">📧 canler.maxence@gmail.com</a>
 </p>
 
@@ -60,7 +60,7 @@ You can view or download my resume [here](https://maxencecanler.com/resume/Resum
 ### 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/maxcnlr">
+  <a href="https://linkedin.com/in/maxencecanler">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
