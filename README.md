@@ -15,10 +15,11 @@
 
 ### 👤 About Me
 
-- 🎓 MSc Computer Science @ **Epitech** · Cert. Data Science & Cybersecurity @ **UCLA Extension**
+- 🎓 MSc Computer Science @ **Epitech** · Cert. Data Science & Cybersecurity @ **UCLA**
 - 🔐 Security Engineering Intern @ **Komodo Health** — New York, NY
   - Deployed Snyk SAST/DAST across 150+ repos · identified 10+ critical vulnerabilities
-- 🛡️ Former Security Analyst @ **DND Agency** — 5 pentests · 40+ reports · avg 4 critical findings/engagement
+- 🛡️ Former Security Analyst @ **DND Agency** — Lille, France
+  - 5 pentests · 40+ reports · avg 4 critical findings/engagement
 - 🚀 I build production SaaS products and secure them from day one
 - 🌍 French (native) · English (professional) · Based in New York, NY
 
@@ -52,7 +53,7 @@ Personal portfolio — [maxencecanler.com](https://maxencecanler.com)
 
 ---
 
-### 📄 Curriculum Vitae
+### 📄 Resume
 
 You can view or download my resume [here](https://maxencecanler.com/resume/ResumeMaxenceCanler.pdf).
 
