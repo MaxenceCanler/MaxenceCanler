@@ -41,10 +41,12 @@
 
 #### [Revy — Accounting Intelligence SaaS](https://app.revy-analyse.fr)
 B2B SaaS for accounting firms — KPI dashboards, financial insights, 1M–5M records/client, 5 partner firms in production.
+
 `React` `FastAPI` `PostgreSQL` `Supabase` `OAuth2` `AES encryption at rest` `zero-trust`
 
 #### [Feelens — Bank-Fee Anomaly Detection](https://feelens.us)
 Automated analysis of $500K+ in U.S. corporate bank fees — avg **$25K saved per client** (20–30% reduction).
+
 `Next.js` `FastAPI` `Supabase` `Vercel` `JWT auth` `RLS`
 
 ---
