@@ -53,7 +53,7 @@ Automated analysis of $500K+ in U.S. corporate bank fees — avg **$25K saved pe
 
 ### 📄 Resume
 
-You can view or download my resume [here](https://maxencecanler.com/resume/ResumeMaxenceCanler.pdf).
+You can view or download my resume [here](https://www.maxencecanler.com/resume/Canler_Maxence_Resume.pdf).
 
 ---
 
