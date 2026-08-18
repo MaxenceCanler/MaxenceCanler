@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Security Engineer · AppSec · Full-Stack Developer</b><br/>
-   · Lille, France
+   Lille, France
 </p>
 
 <p align="center">
