@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Security Engineer · AppSec · Full-Stack Developer</b><br/>
-  Currently @ <a href="https://komodohealth.com">Komodo Health</a> · New York, NY
+   · Lille, France
 </p>
 
 <p align="center">
